@@ -2,7 +2,6 @@
  *<header>
  * Module Name : MainMenuScript.cs
  * Date of creation : 12/4/2018
- * Author : Inderpreet Singh Chera
  * Modification History : 
  *  12/4/2018 : Created Module to navigate through Main Menu
  *  18/4/2018 : Documented Code

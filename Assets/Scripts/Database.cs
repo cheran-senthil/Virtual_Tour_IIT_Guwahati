@@ -2,7 +2,6 @@
  *<header>
  * Module Name : Database.cs
  * Date of creation : 13/4/2018
- * Author : Siddharth Sharma
  * Modification History : 
  *  13/4/2018 : Created Module : Siddharth Sharma
  *  14/4/2018 : Added support for volume : Shubhendu Patidar

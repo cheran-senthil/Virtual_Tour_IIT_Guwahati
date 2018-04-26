@@ -2,7 +2,6 @@
  *<header>
  * Module Name : MainMenuScript.cs
  * Date of creation : 15/4/2018
- * Author : Siddharth Sharma
  * Modification History : 
  *  15/4/2018 : Created module
  *  18/4/2018 : Documented Code

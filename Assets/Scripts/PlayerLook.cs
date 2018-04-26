@@ -2,7 +2,6 @@
  *<header>
  * Module Name : PlayerMove.cs
  * Date of creation : 12/4/2018
- * Author : Siddharth Sharma
  * Modification History : 
  *  12/4/2018 : Created Module for player movement
  *  19/4/2018 : Documented Code

@@ -2,7 +2,6 @@
  *<header>
  * Module Name : AudioScript.cs
  * Date of creation : 15/4/2018
- * Author : Shubhendu Patidar
  * Modification History : 
  *  15/4/2018 : Created Settings Module
  *  19/4/2018 : Documented Code
