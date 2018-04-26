@@ -1,11 +1,6 @@
 ﻿/*
  *<header>
  * Module Name : PlayerMove.cs
- * Date of creation : 15/4/2018
- * Modification History : 
- *  15/4/2018 : Created Module for Question/Answers
- *  16/4/2018 : Added Randomisation to Questions and corresponding options
- *  19/4/2018 : Documented Code
  * Synopsis : This script assigns questions and answers that the user has to answer after reaching the destination.
  * Functions :
  *      void Start ()

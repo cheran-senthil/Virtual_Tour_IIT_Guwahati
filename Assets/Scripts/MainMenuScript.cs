@@ -1,10 +1,6 @@
 ﻿/*
  *<header>
  * Module Name : MainMenuScript.cs
- * Date of creation : 12/4/2018
- * Modification History : 
- *  12/4/2018 : Created Module to navigate through Main Menu
- *  18/4/2018 : Documented Code
  * Synopsis : This script is linked to all the buttons in the Main Menu of the game
  *            and loads different scenes depending upon which button is pressed.
  * Functions :

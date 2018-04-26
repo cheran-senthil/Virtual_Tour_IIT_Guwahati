@@ -1,12 +1,6 @@
 ﻿/*
  *<header>
  * Module Name : Database.cs
- * Date of creation : 13/4/2018
- * Modification History : 
- *  13/4/2018 : Created Module : Siddharth Sharma
- *  14/4/2018 : Added support for volume : Shubhendu Patidar
- *  15/4/2018 : Added Question and options support : Inderpreet Singh Chera
- *  18/4/2018 : Documented Code : Siddharth Sharma
  * Synopsis : This module acts as a store for data required by all the components of game.
  * Functions :
  *      public static void Start()

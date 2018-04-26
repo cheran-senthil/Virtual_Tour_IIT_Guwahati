@@ -1,10 +1,6 @@
 ﻿/*
  *<header>
  * Module Name : PlayerMove.cs
- * Date of creation : 15/4/2018
- * Modification History : 
- *  15/4/2018 : Created Module for player movement
- *  19/4/2018 : Documented Code
  * Synopsis : This script is the main controller of the game and training section.
  *            If it is game, a (random)task will be given to a user which he will have to complete in specified amount of time.
  *            If it is training, then when the user goes near any room, the description of that room is displayed on the screen.

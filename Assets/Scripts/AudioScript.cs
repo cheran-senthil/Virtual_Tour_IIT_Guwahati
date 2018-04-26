@@ -1,10 +1,6 @@
 ﻿/*
  *<header>
  * Module Name : AudioScript.cs
- * Date of creation : 15/4/2018
- * Modification History : 
- *  15/4/2018 : Created Settings Module
- *  19/4/2018 : Documented Code
  * Synopsis : This module helps user to change the global music volume.
  * Functions :
  *      void Awake()

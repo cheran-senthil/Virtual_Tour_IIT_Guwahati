@@ -1,10 +1,6 @@
 ﻿/*
  *<header>
  * Module Name : MainMenuScript.cs
- * Date of creation : 15/4/2018
- * Modification History : 
- *  15/4/2018 : Created module
- *  18/4/2018 : Documented Code
  * Synopsis : Calculates the score and displays it at the end.
  * Functions :
  *      void Start ()
