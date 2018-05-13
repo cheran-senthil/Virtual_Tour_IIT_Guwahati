@@ -1,0 +1,10 @@
+Seminar Room
+4.0 5.0 -77
+Hardware Lab
+-35.22 5.0 -260
+UCCN Lab
+-38.16 11.06 -239.6
+Samit Sir's Room
+-30.55 16.4 -72.7
+Btech 2nd Year Lab
+2.98 21.38 -128.83

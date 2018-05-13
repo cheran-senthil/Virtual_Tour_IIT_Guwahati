@@ -1,0 +1,36 @@
+Seminar
+This is seminar room.
+Hardware
+This is Hardware Lab.
+OpenSource
+This is open source intelligence lab.
+uccn
+This is the User Centric Computing & Networking Lab.
+diganta
+This is the office of professor Diganta Goswami. He was the former HOD of the department.
+john
+This is the office of professor John Jose.
+sahu
+This is the office of professor A. Sahu.
+karfa
+This is the office of professor Chandan Karfa.
+rashmi
+This is the office of professor Rashmi Datta Borah.
+btech2lab
+This is the B. Tech Second Year lab.
+mtech2lab
+This is the M. Tech Second Year lab.
+rao
+This is professor S.V. Rao's room. He is the HOD of the department.
+samit
+This is the office of professor Samit Bhattacharya.
+mars
+This is the MARS LAB.
+rs1
+This is Research Scholar Lab 1.
+quad
+This is Quadcopter Lab.
+rest
+Exit is restricted.
+rest1
+Exit is restricted.
